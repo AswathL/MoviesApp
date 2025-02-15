@@ -14,6 +14,15 @@ A simple Android application built with Jetpack Compose, Retrofit, and Hilt, fol
 
 ![MoviesApp](https://github.com/AswathL/MoviesApp/blob/main/screen-20250215-235936~2.mp4)
 
+## Screenshots
+
+### Home Screen
+![Home Screen](https://github.com/AswathL/MoviesApp/blob/main/Screenshot_20250216-011946.png)
+
+### Details Screen
+![Details Screen](https://github.com/AswathL/MoviesApp/blob/main/Screenshot_20250216-011952.png)
+
+
 ## Technologies Used
 
 - **Jetpack Compose**: Modern Android UI toolkit.
@@ -33,7 +42,7 @@ com.example.movies
 ├── di
 │   └── NetworkModule.kt
 ├── userInterface
-│   ├── DetailsScreen.kt
+│   ├── HomeScreen.kt
 │   ├── DetailsScreen.kt   
 ├── viewmodel
 │   └── MovieViewModel.kt
